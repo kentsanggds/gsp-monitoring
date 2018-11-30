@@ -1,0 +1,6 @@
+prometheus-operator:
+  alertmanager:
+    enabled: false
+
+  grafana:
+    adminPassword: "admin"
