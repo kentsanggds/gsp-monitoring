@@ -3,4 +3,4 @@ prometheus-operator:
     enabled: false
 
   grafana:
-    adminPassword: "admin"
+    adminPassword: "password"
