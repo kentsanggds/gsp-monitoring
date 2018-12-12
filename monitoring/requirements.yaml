@@ -2,3 +2,6 @@ dependencies:
   - name: "prometheus-operator"
     version: 0.1.27
     repository: https://kubernetes-charts.storage.googleapis.com/
+  - name: "fluentd-cloudwatch"
+    version: 0.6.3
+    repository: https://kubernetes-charts-incubator.storage.googleapis.com/
